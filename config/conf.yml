@@ -1,0 +1,6 @@
+db:
+  connection: "localhost"
+  user: "postgres"
+  password: "P@ssw0rd"
+  db: "postgres"
+  port: "5432"
